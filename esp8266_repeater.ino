@@ -5,8 +5,8 @@
 #define HAVE_NETDUMP 0
 
 #ifndef STASSID
-#define STASSID "-MobHot-"
-#define STAPSK "pisanggoreng"
+#define STASSID "yourAP"
+#define STAPSK "yourpassword"
 #endif
 
 #include <ESP8266WiFi.h>
